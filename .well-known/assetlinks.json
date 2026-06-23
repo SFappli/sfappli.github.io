@@ -1,8 +1,8 @@
 [{
- "relation": ["delegate_permission/common.handle_all_urls"],
- "target": {
- "namespace": "android_app",
- "package_name": "io.github.sfappli.swanne",
- "sha256_cert_fingerprints": ["AA:BB:CC:…ton empreinte…"]
- }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sfappli.twa",
+        "sha256_cert_fingerprints": ["BE:89:79:D5:B1:A6:7E:5A:68:94:CC:6D:8D:E6:2F:49:F8:67:0C:E2:FE:07:E4:2F:F6:59:6E:13:8B:E6:DE:FC"]
+      }
+    }]
